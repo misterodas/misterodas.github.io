@@ -1,4 +1,5 @@
-nav a{font-size: 1.3rem;}
+nav a{font-size: 1.3rem;
+background-color: rgba(255, 255, 255, 0.548);}
 p{font-family: 'Inconsolata', monospace;}
 .container{background-color: lightgray;}
 .vidstup{margin-top: 2rem;
@@ -15,3 +16,4 @@ margin-top: 2rem;}
 .photo_r{margin-top: 1rem;}
 .zag{margin: 1rem;}
 body{background-color: gray;}
+
